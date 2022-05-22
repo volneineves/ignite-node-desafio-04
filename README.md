@@ -4,8 +4,9 @@
 
 <h3 align="center">
   Desafio 01: Introdução ao SOLID 
-  && 
-  Desafio 02: Documentando com Swagger
+</h3>
+<h3 align="center">
+  Desafio 02: Documentando com Swagger 
 </h3>
 
 ## :computer: Sobre o desafio
