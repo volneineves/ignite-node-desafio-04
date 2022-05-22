@@ -4,11 +4,12 @@
 
 <h3 align="center">
   Desafio 01: Introdução ao SOLID
+  Desafio 02: Documentando com Swagger
 </h3>
 
 ## :computer: Sobre o desafio
 
-Essa será uma aplicação de listagem e cadastro de usuários com implementação dos princípios SOLID. Para que a listagem de usuários funcione, o usuário que solicita a listagem deve ser um admin (mais detalhes ao longo da descrição).
+Essa será uma aplicação de listagem e cadastro de usuários com implementação dos princípios SOLID  com implementação do SWAGGER. Para que a listagem de usuários funcione, o usuário que solicita a listagem deve ser um admin (mais detalhes ao longo da descrição).
 
 ### :keyboard: Instalação e Execução do Projeto
 
@@ -42,6 +43,12 @@ yarn test
 yarn dev
 ```
 
+- Abra o Swagger da API em seu navegador
+
+```
+http://localhost:3333/api-docs/
+```
+
 ### Template da aplicação
 
 - Template fornecido pela RocketSeat
@@ -53,6 +60,8 @@ yarn dev
 ### Rotas da aplicação (Instruções)
 
 Documentação sobre as rotas e testes: **[Notion](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72)**
+
+Documentação sobre o SWAGGER: **[Notion](https://www.notion.so/Desafio-02-Documentando-com-Swagger-8ce869ea608743e292851bd951f3239f)**
 
 ### POST `/users`
 
